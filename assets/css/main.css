@@ -2333,3 +2333,7 @@ textarea:-ms-input-placeholder {
         left: -200px;
     }
 }
+
+.black-text {
+    color: black;
+}
