@@ -66,8 +66,7 @@
                     <div class="header-menu-wrap">
                         <ul class="nav-menu">
                             <li> <a href="index.php">Home</a> </li>
-                            <li> <a href="service-details.php">Services</a> </li>
-                            <li> <a href="about-us.php">AboutUs</a> </li>
+                            <li> <a href="service-details.php">About Us</a> </li>
                             <li> <a href="faqs">FAQs</a> </li>
                             <li> <a href="contact.php">Contact</a> </li>
                         </ul>

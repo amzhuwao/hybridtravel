@@ -70,7 +70,7 @@
                 <li>
                     <span>You can find us at:</span>9139 Southlands Park, Waterfalls Harare, Zimbabwe
                 </li>
-                <li><span>Email now:</span>Info@hybridtravel&tours.com</li>
+                <li><span>Email now:</span>Info@hybridtravelandtours.co.zw</li>
             </ul>
         </div>
     </div>

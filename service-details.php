@@ -57,17 +57,7 @@
    ?>
     <!--/.main-header-->
 
-    <div id="popup-search-box">
-        <div class="box-inner-wrap d-flex align-items-center">
-            <form id="form" action="#" method="get" role="search">
-                <input id="popup-search" type="text" name="s" placeholder="Type keywords here..." />
-                <button id="popup-search-button" type="submit" name="submit">
-                    <i class="las la-search"></i>
-                </button>
-            </form>
-            <div class="search-close"><i class="las la-times"></i></div>
-        </div>
-    </div>
+    <
     <!--/.popupsearch-box-->
     <div id="searchbox-overlay"></div>
 
@@ -76,14 +66,13 @@
             <div class="site-logo">
                 <a href="index.html"><img src="assets/img/logo-light.png" alt="logo" /></a>
             </div>
-            <p>Everything your taxi business needs is already here! Ridek, a theme
-                made for taxi service companies.</p>
+            <p>Everything your taxi business needs is already here.</p>
             <ul class="sidebox-list">
-                <li class="call"><span>Call for ride:</span>5267-214-392</li>
+                <li class="call"><span>Call for ride:</span>+263-242-777-524</li>
                 <li>
-                    <span>You can find us at:</span>Halk Street New York, USA - 2386
+                    <span>You can find us at:</span>9139 Southlands Park, Waterfalls Harare, Zimbabwe
                 </li>
-                <li><span>Email now:</span>Info.ridek@mail.com</li>
+                <li><span>Email now:</span>hybridtravelandtours.co.zw</li>
             </ul>
         </div>
     </div>
@@ -95,9 +84,10 @@
         <div class="container">
             <div class="page-header-info">
                 <h4>Service Details!</h4>
-                <h2>Feel your journey <br> with <span>Ridek!</span></h2>
+                <h2>Feel your journey <br> with <span>Hybrid Travel</span></h2>
                 <p>Everything your taxi business <br>needs is already here! </p>
             </div>
+
         </div>
     </section>
     <!--/.page-header-->
@@ -109,8 +99,8 @@
                     <div class="service-details-info">
                         <img src="assets/img/post-2.jpg" alt="img">
                         <h2>Comfortable Business Transport Services!</h2>
-                        <p>Financial experts support or help you to to find out which way you can raise your funds more. Arkit a trusted name for providing assistants. Initially their main objective was to ensure the service they provide these people are loyal to their industry.</p>
-                        <p>Unless you are the one who really cares about this, it is not terribly important. What all matters are how your hybrid mobile application development is going to work in the long run as no one will care about how it was built.</p>
+                        <p>We listen, we care, and we continue to uphold long standing tradition of not only meeting, but exceeding our customers' expectations.</p>
+                        <p>We believe that we do things differently. We treat our customers differently, as individuals, catering for their individual needs while striving to contain costs.</p>
                         <ul class="service-features">
                             <li>
                                 <div><i class="las la-shipping-fast"></i></div>
@@ -122,34 +112,34 @@
                             <li>
                                 <div><i class="las la-taxi"></i></div>
                                 <div>
-                                    <h3>Instant Car Provide</h3>
-                                    <p>Everything your taxi business needs is already here!</p>
+                                    <h3>Affordable Rides</h3>
+                                    <p>Our services are reasonably priced</p>
                                 </div>
                             </li>
                             <li>
                                 <div><i class="las la-tachometer-alt"></i></div>
                                 <div>
-                                    <h3>Save Expert Drive</h3>
-                                    <p>Everything your taxi business needs is already here!</p>
+                                    <h3>Expert Drivers</h3>
+                                    <p>We have qualified & experienced drivers</p>
                                 </div>
                             </li>
                             <li>
                                 <div><i class="las la-user-astronaut"></i></div>
                                 <div>
                                     <h3>24/7 Support</h3>
-                                    <p>Everything your taxi business needs is already here!</p>
+                                    <p>We are here for you, operating 24/7</p>
                                 </div>
                             </li>
                         </ul>
-                        <p>There are some big shifts taking place in the field of construction equipment mathematics. Starting with the integration of mathematics devices in vehicles right from manufacturers, to the standardization and integration of mathematics data across various business functions, the future of mathematics.</p>
+                        <p>To us, customer focus covers everything from service quality to prompt response, custome needs, professional expertise and advice.</p>
                         <div class="service-details-list">
                             <img src="assets/img/post-1.jpg" alt="img">
                             <div>
                                 <h3>Passenger Benefits!</h3>
-                                <p>Everything your taxi business needs is already here!</p>
                                 <ul class="service-icon-list">
-                                    <li><i class="las la-hand-point-right"></i>Use the latest diagnostic equipment.</li>
-                                    <li><i class="las la-hand-point-right"></i>Automotive service for our clients.</li>
+                                    <li><i class="las la-hand-point-right"></i>On-board telephone facility in vehicles.</li>
+                                    <li><i class="las la-hand-point-right"></i>We offer flexible business conditions.</li>
+                                    <li><i class="las la-hand-point-right"></i>Our vehicles have a 24 hour tracking system.</li>
                                     <li><i class="las la-hand-point-right"></i>Quick dedicated support team.</li>
                                 </ul>
                             </div>
@@ -159,42 +149,37 @@
                 <div class="col-lg-4 sm-padding">
                     <div class="service-sidebar sidebar-widget">
                         <div class="widget-title service-widget">
-                            <h3>Categories</h3>
+                            <h3>Services</h3>
                         </div>
-                        <ul>
-                            <li><a href="#">Regular Transport</a><i class="las la-arrow-right"></i></li>
-                            <li><a href="#">City Transport</a><i class="las la-arrow-right"></i></li>
-                            <li><a href="#">Airport Transport</a><i class="las la-arrow-right"></i></li>
-                            <li><a href="#">Long Journey</a><i class="las la-arrow-right"></i></li>
-                            <li><a href="#">Luggage Transport</a><i class="las la-arrow-right"></i></li>
-                        </ul>
+                        <div>
+                          <h5>Taxi Service</h5>
+                            <p>We competitively offer convenient urban transport solution.</p>
+                        </div>
+                            
+                        <div>
+                           <h5>Airport Shuttle</h5>
+                            <p>We provide transport solutions to and from the airport and vice versa.</p>
+                        </div>
+
+                        <div>
+                           <h5>Car Rental Services</h5>
+                            <p>We have the right cars and price that will give you an unforgattable car rental experience.</p>
+                        </div>
+
+                        <div>
+                           <h5>Other Services</h5>
+                            <p>We also do school runs, after hours door to door services among other tailor made transport solutions meeting different demands.</p>
+                        </div>
                     </div>
                     <div class="sidebar-widget banner">
                         <div class="banner-info">
                             <a href="index.html"><img class="logo" src="assets/img/logo-light.png" alt="logo"></a>
-                            <h3>Feel your journey with <span>Ridek!</span></h3>
+                            <h3>Feel your journey with <span>Hybrid Travel!</span></h3>
                             <p>Everything your taxi business needs is already here!</p>
                             <h2 class="discount"><span>-60%</span> Off Today!</h2>
                             <a href="contact.html" class="default-btn">Get Your Offer Now</a>
                         </div>
                     </div>
-                    <div class="sidebar-widget">
-                        <div class="widget-title">
-                            <h3>Tags</h3>
-                        </div>
-                        <ul class="tags">
-                            <li><a href="#">business</a></li>
-                            <li><a href="#">marketing</a></li>
-                            <li><a href="#">startup</a></li>
-                            <li><a href="#">design</a></li>
-                            <li><a href="#">consulting</a></li>
-                            <li><a href="#">strategy</a></li>
-                            <li><a href="#">development</a></li>
-                            <li><a href="#">tips</a></li>
-                            <li><a href="#">Seo</a></li>
-                        </ul>
-                    </div>
-                    <!--Tags-->
                 </div>
             </div>
         </div>
