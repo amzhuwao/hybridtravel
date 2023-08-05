@@ -42,7 +42,7 @@
                                 <i class="las la-envelope-open"></i>
                             </div>
                             <div class="header-info-text">
-                                <h3><span>Email now</span>Info.@hybridtravel&tours.com</h3>
+                                <h3><span>Email now</span>Info.@hybridtravelandtours.co.zw</h3>
                             </div>
                         </li>
                         <li>
@@ -67,7 +67,7 @@
                         <ul class="nav-menu">
                             <li> <a href="index.php">Home</a> </li>
                             <li> <a href="service-details.php">About Us</a> </li>
-                            <li> <a href="faqs">FAQs</a> </li>
+                            <li> <a href="faqs.php">FAQs</a> </li>
                             <li> <a href="contact.php">Contact</a> </li>
                         </ul>
                     </div>
