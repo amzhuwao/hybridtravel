@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Hybrid Travel Online Taxi Booking ">
+    <meta name="description" content="Hybrid Travel Online Taxi Booking">
     <meta name="author" content="DynamicLayers">
 
     <title>Hybrid Taxes - Hop in, Lets go.</title>
@@ -51,115 +51,12 @@
             <div class="car-detail wheel wheel2"></div>
         </div>
     </div><!--/.site-preloader-->
+    <?php
+    require_once 'header.php';
+    ?>
+   <!--/.main-header-->
 
-    <header class="main-header">
-        <div class="top-header">
-            <div class="container">
-                <div class="top-header-wrap">
-                    <div class="top-left">
-                        <p>Reliable Taxi Service & Transport Solutions!</p>
-                    </div>
-                    <div class="top-right">
-                        <ul class="top-header-nav">
-                            <li><a href="faqs.html">Help</a></li>
-                            <li><a href="contact.html">Support</a></li>
-                            <li><a href="faqs.html">FAQ</a></li>
-                        </ul>
-                        <ul class="header-social-share">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div><!--/.top-header-->
-        <div class="mid-header">
-            <div class="container">
-                <div class="mid-header-wrap">
-                    <div class="site-logo">
-                        <a href="index.html"><img src="assets/img/logo-dark.png" alt="Logo"></a>
-                    </div><!--/.site-logo-->
-                    <ul class="header-info">
-                        <li>
-                            <div class="header-info-icon">
-                                <i class="las la-phone-volume"></i>
-                            </div>
-                            <div class="header-info-text">
-                                <h3><span>Call us now</span><a href="tel:+263 242 777 524">+263-242-777-524</a></h3>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="header-info-icon">
-                                <i class="las la-envelope-open"></i>
-                            </div>
-                            <div class="header-info-text">
-                                <h3><span>Email now</span>Info.@hybridtravel&tours.com</h3>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="header-info-icon">
-                                <i class="las la-map-marked-alt"></i>
-                            </div>
-                            <div class="header-info-text">
-                                <h3><span>9139 Southlands Park</span>Harare, Zimbabwe</h3>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div><!--/.mid-header-->
-        <div class="nav-menu-wrapper">
-            <div class="container">
-                <div class="nav-menu-inner">
-                    <div class="site-logo">
-                        <a href="index.html"><img src="assets/img/logo-dark.png" alt="Logo"></a>
-                    </div><!--/.site-logo-->
-                    <div class="header-menu-wrap">
-                        <ul class="nav-menu">
-                            <li> <a href="index.html">Home</a> </li>
-                            <li> <a href="service-details.html">Services</a> </li>
-                            <li> <a href="about-us.html">AboutUs</a> </li>
-                            <li> <a href="faqs">FAQs</a> </li>
-                            <li> <a href="contact.html">Contact</a> </li>
-                        </ul>
-                    </div>
-                    <div class="menu-right-item">
-                        <div class="search-icon dl-search-icon">
-                            <i class="las la-search"></i>
-                        </div>
-                        <div class="sidebox-icon dl-sidebox-icon">
-                            <i class="las la-bars"></i>
-                        </div>
-                        <a href="book-taxi.html" class="menu-btn">Book a Taxi</a>
-                    </div>
-                    <div class="mobile-menu-icon">
-                        <div class="burger-menu">
-                            <div class="line-menu line-half first-line"></div>
-                            <div class="line-menu"></div>
-                            <div class="line-menu line-half last-line"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--/.nav-menu-->
-    </header>
-    <!--/.main-header-->
-
-    <div id="popup-search-box">
-        <div class="box-inner-wrap d-flex align-items-center">
-            <form id="form" action="#" method="get" role="search">
-                <input id="popup-search" type="text" name="s" placeholder="Type keywords here...">
-                <button id="popup-search-button" type="submit" name="submit">
-                    <i class="las la-search"></i>
-                </button>
-            </form>
-            <div class="search-close"><i class="las la-times"></i></div>
-        </div>
-    </div>
-    <!--/.popupsearch-box-->
+   
     <div id="searchbox-overlay"></div>
 
     <div id="popup-sidebox" class="popup-sidebox">
@@ -218,7 +115,7 @@
                                     </div>
                                 </div>
                                 <div class="slider-btn">
-                                    <a href="book-taxi.html" class="default-btn black-text" data-animation="fade-in-bottom"
+                                    <a href="#book-taxi-ride" class="default-btn black-text" data-animation="fade-in-bottom"
                                         data-delay="0.9s">Book Now</a>
                                 </div>
                             </div>
@@ -260,7 +157,7 @@
                                     </div>
                                 </div>
                                 <div class="slider-btn">
-                                    <a href="book-taxi.html" class="default-btn" data-animation="fade-in-bottom"
+                                    <a href="#book-taxi-ride" class="default-btn" data-animation="fade-in-bottom"
                                         data-delay="0.9s">Book Now</a>
                                 </div>
                             </div>
